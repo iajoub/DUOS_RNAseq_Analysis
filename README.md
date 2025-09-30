@@ -43,9 +43,9 @@ This repository contains R Markdown scripts, metadata, and derived count matrice
 - RNA-STAR v2.7.1a  
 - Subread v2.0.6  
 
-**Reference Genomes**  
-- *Staphylococcus epidermidis* 1457 (CP020463, CP020462)  
-- *Staphylococcus aureus* 29523 (CP009361, CP009362)  
+Reference Genomes  
+- Staphylococcus epidermidis 1457 (CP020463, CP020462)  
+- Staphylococcus aureus 29523 (CP009361, CP009362)  
 - Human genome reference hg38  
 
 ### R Environment
@@ -76,8 +76,8 @@ This repository contains R Markdown scripts, metadata, and derived count matrice
 ---
 
 ## Data Availability
-- **Raw sequencing reads**: Can be accessed at https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-14798.<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/d9eb2ca9-f7f9-4e43-88ae-4445d62c6247" />
-- **Processed data**: All count matrices and metadata required to reproduce analyses are included in this repository.  
+- Raw sequencing reads: Can be accessed at https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-14798.
+- Processed data: All count matrices and metadata required to reproduce analyses are included in this repository.  
 
 ---
 
@@ -88,11 +88,10 @@ This repository contains R Markdown scripts, metadata, and derived count matrice
 ---
 
 ## License
-- The **analysis scripts** in this repository are released under the [MIT License](LICENSE).  
-- **Derived count matrices and metadata files** are released under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).  
+- The analysis scripts in this repository are released under the [MIT License](LICENSE).  
+- Derived count matrices and metadata files are released under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/).  
 
 ---
 
 ## Citation
-If you use this repository, please cite:  
-> Joubert et al., 2025. *Characterising Commensal and Pathogenic Staphylococcal Interactions with Neonatal and Adult Blood*. Scientific Reports. DOI: [forthcoming].
+If you use this repository, please cite: Joubert et al., 2025., Characterising Commensal and Pathogenic Staphylococcal Interactions with Neonatal and Adult Blood, . Scientific Reports. DOI: [forthcoming].
